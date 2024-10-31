@@ -43,7 +43,7 @@
 
 ###
 
-<p align="center">¡Hola! Soy Bianca 👋 Desarrolladora Web Full Stack ⚡<br><br>Soy una desarrolladora web apasionada por crear aplicaciones completas y eficientes. Mi stack principal incluye:<br><br>👀 Lenguajes y tecnologías: JavaScript, Node.js, React, Express y PostgreSQL.<br><br>Actualmente aprendiendo: TypeScript, NestJS y MongoDB.<br><br>¿Cómo aprendo? 🌱💞️ Me encanta aprender constantemente, y la mejor forma que encuentro para mejorar es desarrollar proyectos que me desafíen y me permitan aplicarlo.<br><br>📫 Contacto: Si quieres conectar conmigo o colaborar en algún proyecto, no dudes en escribirme:<br><br>Email: biancadepetris1998@gmail.com</p>
+<p align="center">¡Hola! Soy Bianca 👋 Desarrolladora Web Full Stack ⚡<br><br>Soy una desarrolladora web apasionada por crear aplicaciones completas y eficientes. Mi stack principal incluye:<br><br>👀 Lenguajes y tecnologías: JavaScript, Node.js, React, Express y PostgreSQL.<br><br>Actualmente aprendiendo: TypeScript, Java y MongoDB.<br><br>¿Cómo aprendo? 🌱💞️ Me encanta aprender constantemente, y la mejor forma que encuentro para mejorar es desarrollar proyectos que me desafíen y me permitan aplicarlo.<br><br>📫 Contacto: Si quieres conectar conmigo o colaborar en algún proyecto, no dudes en escribirme:<br><br>Email: biancadepetris1998@gmail.com</p>
 
 ###
 
